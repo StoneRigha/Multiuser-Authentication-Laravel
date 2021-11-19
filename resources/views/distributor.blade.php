@@ -230,6 +230,10 @@
     {
         location.reload();
     });
+    $('#pay').click(function()
+    {
+        location.reload()
+    });
 
 </script>
 
